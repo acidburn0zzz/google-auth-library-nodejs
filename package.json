@@ -20,7 +20,7 @@
     "client library"
   ],
   "dependencies": {
-    "gtoken": "^1.2.3",
+    "gtoken": "^8.0.0",
     "jws": "^3.1.4",
     "lodash.isstring": "^4.0.1",
     "lodash.merge": "^4.6.0",
@@ -36,20 +36,20 @@
     "clang-format": "^1.0.50",
     "coveralls": "^3.0.0",
     "del": "^3.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^5.0.1",
     "gulp-clang-format": "^1.0.23",
-    "gulp-mocha": "^4.3.1",
+    "gulp-mocha": "^10.0.1",
     "gulp-sourcemaps": "^2.6.0",
     "gulp-tslint": "^8.0.0",
     "gulp-typescript": "^3.1.6",
     "istanbul": "^0.4.5",
     "keypair": "^1.0.0",
     "merge2": "^1.0.3",
-    "mocha": "^4.0.1",
+    "mocha": "^11.7.6",
     "nock": "^9.0.2",
     "source-map-support": "^0.5.0",
     "tslint": "^5.1.0",
-    "typedoc": "^0.9.0",
+    "typedoc": "^0.28.20",
     "typescript": "^2.3.4"
   },
   "files": [
